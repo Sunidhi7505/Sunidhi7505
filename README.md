@@ -35,6 +35,9 @@
 🔹 [**Headphone E-Commerce Website**](https://github.com/Sunidhi7505/HeadphoneEcommerse)  
 *A responsive front-end e-commerce website built with HTML, CSS, and JavaScript featuring product listings, add-to-cart, and modern UI components.*  
 
+🔹 [**News Website**](https://github.com/Sunidhi7505/NewsWebsite)  
+*A front-end news website built with HTML, CSS, and JavaScript featuring real time news fetching from other source using APIs and implementation of asyc / await with promises.*  
+
 ---
 
 ## 📜 Certifications  
