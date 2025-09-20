@@ -38,6 +38,9 @@
 🔹 [**News Website**](https://github.com/Sunidhi7505/NewsWebsite)  
 *A front-end news website built with HTML, CSS, and JavaScript featuring real time news fetching from other source using APIs and implementation of asyc / await with promises.*  
 
+🔹 [**Hotel Booking Website**](https://github.com/Sunidhi7505/NewsWebsite)  
+*A front-end fully responsive hotel booking website built with HTML, CSS, and JavaScript featuring real time hotel details fetching from other hardcoded json and implementation of asyc / await with promises.*
+
 ---
 
 ## 📜 Certifications  
