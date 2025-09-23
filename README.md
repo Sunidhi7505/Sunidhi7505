@@ -41,6 +41,9 @@
 🔹 [**Hotel Booking Website**](https://github.com/Sunidhi7505/HotelBookingWebsite)  
 *A front-end fully responsive hotel booking website built with HTML, CSS, and JavaScript featuring real time hotel details fetching from other hardcoded json and implementation of asyc / await with promises.*
 
+🔹 [**Job Portal Website**](https://github.com/Sunidhi7505/JobPortalWebsite)  
+*A front-end fully responsive job portal website (front-end) built with HTML, CSS, and JavaScript with the functionalities of add new job, search and filter on the basis of salary, location, job role, etc. and company cards with job description.*
+
 ---
 
 ## 📜 Certifications  
