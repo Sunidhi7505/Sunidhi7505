@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sunidhi Goyal
 
-🎓 Final-year **Computer Science student** at **Chandigarh University** (CGPA: **8.04**)  
+🎓 Final-year **Computer Science student** at **Chandigarh University** (CGPA: **8.2**)  
 💻 Passionate about **coding, problem-solving, and full-stack web development**  
-🚀 Aspiring **SDE Intern / Software Engineer**
+🚀 Aspiring **Software Engineer**
 
 ✨ *Code • Learn • Build • Repeat*
 
@@ -19,13 +19,17 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black)
 
 ### 🧩 Backend Development
-![Node.js](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful_API-02569B?logo=api&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)  
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white)  
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  
+![REST API](https://img.shields.io/badge/RESTful_API-02569B?logo=api&logoColor=white)  
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -47,9 +51,6 @@
 ---
 
 ## 🚀 Projects
-
-🔹 **[Sweet Shop Management System (MERN Stack)](https://github.com/Sunidhi7505/Sweet-Shop-Management)**  
-*Full-stack MERN application handling CRUD operations, authentication, role-based access, and REST APIs.*
 
 🔹 **[Sorting Visualizer](https://github.com/Sunidhi7505/SortiingVisualizer)**  
 *Interactive visualization of sorting algorithms like Bubble, Selection, Insertion, and Merge Sort.*
