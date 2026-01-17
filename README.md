@@ -52,6 +52,9 @@
 
 ## 🚀 Projects
 
+🔹 **[Food Ordering Website](https://github.com/Sunidhi7505/Food-Store-Management)**  
+*A full stack application using spring boot as backend, RESTFul APIs, MongoDB Database integration, CRUD operations, Admin and Customer role based authentication and JWT security.*
+
 🔹 **[Sorting Visualizer](https://github.com/Sunidhi7505/SortiingVisualizer)**  
 *Interactive visualization of sorting algorithms like Bubble, Selection, Insertion, and Merge Sort.*
 
@@ -63,6 +66,9 @@
 
 🔹 **[News Website](https://github.com/Sunidhi7505/NewsWebsite)**  
 *Real-time news website using APIs with async/await and promises.*
+
+🔹 **[Sweet Shop Management Full-Stack Website](https://github.com/Sunidhi7505/Sweet-Shop-Management)**  
+*A full stack paltform using MERN stack as group project for sweet shop management with admin and customer role, role based authentication, CRUD operations and database integration.*
 
 ---
 
