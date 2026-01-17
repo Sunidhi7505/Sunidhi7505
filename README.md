@@ -52,7 +52,7 @@
 
 ## 🚀 Projects
 
-🔹 **[Food Ordering Website](https://github.com/Sunidhi7505/Food-Store-Management)**  
+🔹 **[Food Ordering Full Stack Website](https://github.com/Sunidhi7505/Food-Store-Management)**  
 *A full stack application using spring boot as backend, RESTFul APIs, MongoDB Database integration, CRUD operations, Admin and Customer role based authentication and JWT security.*
 
 🔹 **[Sorting Visualizer](https://github.com/Sunidhi7505/SortiingVisualizer)**  
