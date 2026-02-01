@@ -70,6 +70,9 @@
 🔹 **[Sweet Shop Management Full-Stack Website](https://github.com/Sunidhi7505/Sweet-Shop-Management)**  
 *A full stack paltform using MERN stack as group project for sweet shop management with admin and customer role, role based authentication, CRUD operations and database integration.*
 
+🔹 **[Sending OTP on Email and Validation](https://github.com/Sunidhi7505/OTP_Validation_Through_Email)**  
+*A spring boot driven backend mini project in which user will input their mail and they will get 4 digit otp on their mail. User can validate the same.*
+
 ---
 
 ## 📊 GitHub Stats
