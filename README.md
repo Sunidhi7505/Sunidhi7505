@@ -55,6 +55,9 @@
 🔹 **[Food Ordering Full Stack Website](https://github.com/Sunidhi7505/Food-Store-Management)**  
 *A full stack application using spring boot as backend, RESTFul APIs, MongoDB Database integration, CRUD operations, Admin and Customer role based authentication and JWT security.*
 
+🔹 **[School Management Backend System](https://github.com/Sunidhi7505/School_Management_Backend)**  
+*A backend system for school management built using Spring Boot, implementing RESTful APIs with layered architecture, integrated with MySQL using JPA for CRUD operations, secured with Spring Security and JWT-based authentication and authorization, and tested using Postman.*
+
 🔹 **[Sorting Visualizer](https://github.com/Sunidhi7505/SortiingVisualizer)**  
 *Interactive visualization of sorting algorithms like Bubble, Selection, Insertion, and Merge Sort.*
 
