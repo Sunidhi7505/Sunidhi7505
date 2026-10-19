@@ -70,6 +70,8 @@
 🔹 **[Sweet Shop Management Full-Stack Website](https://github.com/Sunidhi7505/Sweet-Shop-Management)**  
 *A full stack paltform using MERN stack as group project for sweet shop management with admin and customer role, role based authentication, CRUD operations and database integration.*
 
+🔹 **[Student Management Backend Application](https://github.com/Sunidhi7505/Sweet-Shop-Management)**  
+*A springboot backend application to handle CRUD operations for student records along with secure data transfer as DTOs, integrated exception handling, added request validation rules for each fields, utilized MySQL database and followed controller service repository architecture for modularity, built various REST API end points and tested via postman.*
 
 ---
 
