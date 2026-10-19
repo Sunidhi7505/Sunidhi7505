@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1N0QRHPtnh7McFYR2KakXqByrp0sNPd2l/view"><img src="https://img.shields.io/badge/Resume-EA4335?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/sunidhi-goyal-444835251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/Sunidhi_24/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.geeksforgeeks.org/user/sunidhigon9xc/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
@@ -35,17 +36,25 @@
 <td align="center" width="230">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="70" alt="Graduation cap" /><br/>
   <b>Computer Science</b><br/>
-  <sub>Chandigarh University, Punjab</sub>
+  <sub>Chandigarh University • Final Year</sub>
 </td>
 <td align="center" width="230">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="70" alt="Hundred points" /><br/>
   <b>8.13 CGPA</b><br/>
-  <sub>Overall academic score</sub>
+  <sub>Current academic score</sub>
 </td>
 <td align="center" width="230">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="70" alt="Rocket" /><br/>
   <b>Aspiring Software Engineer</b><br/>
   <sub>Backend • Full-Stack Web</sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+  <sub><b>💼 EXPERIENCE</b></sub><br/><br/>
+  <img src="./assets/intellect-logo.svg" width="200" alt="Intellect Design Arena logo" /><br/>
+  <b>SDE Intern</b> — <b>Intellect Design Arena</b><br/>
+  <sub>📅 Jun 2026 – Aug 2026 (2 months) &nbsp;•&nbsp; 📍 Chennai, Tamil Nadu</sub>
 </td>
 </tr>
 </table>
@@ -89,7 +98,7 @@
 <td align="center" width="50%">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="60" alt="Bullseye" /><br/>
   <b>Career Goal</b><br/>
-  <sub>Seeking <b>Software Engineer / Backend Developer / Web Developer / Full Stack Developer </b> roles</sub>
+  <sub>Seeking <b>Software Engineer / Backend Developer</b> roles</sub>
 </td>
 <td align="center" width="50%">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="60" alt="Fire" /><br/>
@@ -154,7 +163,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hamburger.png" width="130" alt="Food ordering clipart" />
 </td>
 <td>
-  <h3>🍔 Food Ordering Platform</h3>
+  <h3>🍔 Foody: Full Stack Food Ordering Website</h3>
   <i>A full-stack food ordering website with secure, role-based access for admins and customers.</i>
   <ul>
     <li>Spring Boot backend exposing <b>RESTful APIs</b> with full <b>CRUD</b> operations</li>
@@ -166,6 +175,19 @@
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Spring%20Boot%20Mail-6DB33F?style=flat-square&logo=gmail&logoColor=white" alt="Spring Boot Mail" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet.js" />
+  <img src="https://img.shields.io/badge/Geolocation%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Geolocation API" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <br/><br/>
   <a href="https://github.com/Sunidhi7505/Food-Store-Management"><img src="https://img.shields.io/badge/View%20Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View code" /></a>
   <img src="https://img.shields.io/github/last-commit/Sunidhi7505/Food-Store-Management?style=for-the-badge&color=00D4FF&label=Updated" alt="Last commit" />
@@ -314,6 +336,7 @@
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1N0QRHPtnh7McFYR2KakXqByrp0sNPd2l/view"><img src="https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/sunidhi-goyal-444835251/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sunidhigoyal7505@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://codolio.com/profile/Sunidhi7505"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
