@@ -12,17 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sunidhi7505&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Sunidhi7505?tab=followers"><img src="https://img.shields.io/github/followers/Sunidhi7505?label=Followers&style=for-the-badge&color=6C63FF&logo=github" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20Backend-00D4FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
-</p>
-
-<p align="center">
   <a href="https://drive.google.com/file/d/1N0QRHPtnh7McFYR2KakXqByrp0sNPd2l/view"><img src="https://img.shields.io/badge/Resume-EA4335?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/sunidhi-goyal-444835251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/Sunidhi_24/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.geeksforgeeks.org/user/sunidhigon9xc/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://codolio.com/profile/Sunidhi7505"><img src="https://img.shields.io/badge/Codolio-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Codolio portfolio" /></a>
+  <a href=" https://personal-portfolio-website-jade-six.vercel.app/"><img src="https://img.shields.io/badge/Codolio-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:sunidhigoyal7505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
