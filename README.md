@@ -184,7 +184,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <br/><br/>
-  <a href="https://github.com/Sunidhi7505/Food-Store-Management"><img src="https://img.shields.io/badge/View%20Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View code" /></a>
+  <a href="https://github.com/Sunidhi7505/Food-Delivery-Website-Updated-Version"><img src="https://img.shields.io/badge/View%20Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View code" /></a>
   <img src="https://img.shields.io/github/last-commit/Sunidhi7505/Food-Store-Management?style=for-the-badge&color=00D4FF&label=Updated" alt="Last commit" />
 </td>
 </tr>
