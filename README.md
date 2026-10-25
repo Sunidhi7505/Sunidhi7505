@@ -133,7 +133,11 @@
 </tr>
 <tr>
   <td align="center"><b>🛠️ Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=postman,git,github,maven,idea,vscode&theme=dark" alt="Postman, Git, GitHub, Maven, IntelliJ IDEA, VS Code" /></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=postman,git,github,maven,idea,vscode,docker&theme=dark" alt="Postman, Git, GitHub, Maven, IntelliJ IDEA, VS Code, Docker" /><br/>
+    <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+    <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=mockito&logoColor=white" alt="Mockito" />
+  </td>
 </tr>
 </table>
 
@@ -164,6 +168,8 @@
     <li>Spring Boot backend exposing <b>RESTful APIs</b> with full <b>CRUD</b> operations</li>
     <li><b>Admin & Customer</b> role-based authentication secured with <b>JWT</b></li>
     <li><b>MongoDB</b> database integration</li>
+    <li>Wrote <b>12+ unit tests</b> with <b>JUnit 5</b> and <b>Mockito</b> for coupon, login, review and JWT logic; validated APIs in <b>Postman</b>.</li>
+    <li>Used three AI tools — <b>OpenAI, Gemini and Perplexity</b> — to debug issues and identify edge cases.</li>
   </ul>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -180,6 +186,8 @@
   <img src="https://img.shields.io/badge/Geolocation%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Geolocation API" />
   <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=mockito&logoColor=white" alt="Mockito" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
